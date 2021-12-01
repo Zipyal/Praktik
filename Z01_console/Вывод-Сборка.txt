@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: ConsoleApp1, Конфигурация: Debug Any CPU ------
+1>ConsoleApp1 -> E:\VisualStudio\App\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
