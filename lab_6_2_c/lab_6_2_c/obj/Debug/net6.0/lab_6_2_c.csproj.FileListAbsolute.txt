@@ -1,0 +1,15 @@
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\bin\Debug\net6.0\lab_6_2_c.exe
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\bin\Debug\net6.0\lab_6_2_c.deps.json
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\bin\Debug\net6.0\lab_6_2_c.runtimeconfig.json
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\bin\Debug\net6.0\lab_6_2_c.dll
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\bin\Debug\net6.0\ref\lab_6_2_c.dll
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\bin\Debug\net6.0\lab_6_2_c.pdb
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.csproj.AssemblyReference.cache
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.AssemblyInfoInputs.cache
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.AssemblyInfo.cs
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.csproj.CoreCompileInputs.cache
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.dll
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\ref\lab_6_2_c.dll
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.pdb
+E:\VisualStudio\App\lab_6_2_c\lab_6_2_c\obj\Debug\net6.0\lab_6_2_c.genruntimeconfig.cache
