@@ -1,0 +1,14 @@
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\bin\Debug\netcoreapp3.1\ConsoleApp11-с-1.exe
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\bin\Debug\netcoreapp3.1\ConsoleApp11-с-1.deps.json
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\bin\Debug\netcoreapp3.1\ConsoleApp11-с-1.runtimeconfig.json
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\bin\Debug\netcoreapp3.1\ConsoleApp11-с-1.runtimeconfig.dev.json
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\bin\Debug\netcoreapp3.1\ConsoleApp11-с-1.dll
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\bin\Debug\netcoreapp3.1\ConsoleApp11-с-1.pdb
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.csproj.AssemblyReference.cache
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.AssemblyInfoInputs.cache
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.AssemblyInfo.cs
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.csproj.CoreCompileInputs.cache
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.dll
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.pdb
+E:\VisualStudio\App\ConsoleApp11-с\ConsoleApp11-с-1\obj\Debug\netcoreapp3.1\ConsoleApp11-с-1.genruntimeconfig.cache

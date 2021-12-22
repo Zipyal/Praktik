@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+rsjVCoAGl7lyPa+6w4dQNIqo7IYm+zBUQCpvt0dDHvo/leOKs3SIVWBpOHJuDCD7+XTyzToPxMRAH0R6gjdA==",
+  "success": true,
+  "projectFilePath": "E:\\VisualStudio\\App\\ConsoleApp12-c\\ConsoleApp12-c-1\\ConsoleApp12-c-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
