@@ -1,0 +1,15 @@
+E:\VisualStudio\App\lab_9_1\lab_9_1\bin\Debug\net6.0\lab_9_1.exe
+E:\VisualStudio\App\lab_9_1\lab_9_1\bin\Debug\net6.0\lab_9_1.deps.json
+E:\VisualStudio\App\lab_9_1\lab_9_1\bin\Debug\net6.0\lab_9_1.runtimeconfig.json
+E:\VisualStudio\App\lab_9_1\lab_9_1\bin\Debug\net6.0\lab_9_1.dll
+E:\VisualStudio\App\lab_9_1\lab_9_1\bin\Debug\net6.0\ref\lab_9_1.dll
+E:\VisualStudio\App\lab_9_1\lab_9_1\bin\Debug\net6.0\lab_9_1.pdb
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.csproj.AssemblyReference.cache
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.AssemblyInfoInputs.cache
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.AssemblyInfo.cs
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.csproj.CoreCompileInputs.cache
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.dll
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\ref\lab_9_1.dll
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.pdb
+E:\VisualStudio\App\lab_9_1\lab_9_1\obj\Debug\net6.0\lab_9_1.genruntimeconfig.cache
