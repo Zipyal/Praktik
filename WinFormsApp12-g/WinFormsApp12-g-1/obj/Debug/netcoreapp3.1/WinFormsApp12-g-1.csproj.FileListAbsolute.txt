@@ -1,0 +1,16 @@
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\bin\Debug\netcoreapp3.1\WinFormsApp12-g-1.exe
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\bin\Debug\netcoreapp3.1\WinFormsApp12-g-1.deps.json
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\bin\Debug\netcoreapp3.1\WinFormsApp12-g-1.runtimeconfig.json
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\bin\Debug\netcoreapp3.1\WinFormsApp12-g-1.runtimeconfig.dev.json
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\bin\Debug\netcoreapp3.1\WinFormsApp12-g-1.dll
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\bin\Debug\netcoreapp3.1\WinFormsApp12-g-1.pdb
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.csproj.AssemblyReference.cache
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12_g_1.Form1.resources
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.csproj.GenerateResource.cache
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.AssemblyInfoInputs.cache
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.AssemblyInfo.cs
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.csproj.CoreCompileInputs.cache
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.dll
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.pdb
+E:\VisualStudio\App\WinFormsApp12-g\WinFormsApp12-g-1\obj\Debug\netcoreapp3.1\WinFormsApp12-g-1.genruntimeconfig.cache

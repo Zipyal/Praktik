@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AvsGhZ7zF0O12ThO5us0RKp3Im/eqq1+FV60L4VXCTMcYgF9pAkcw6endfGaiL9z67gS6Yy77+zC+zinyqqtKA==",
+  "success": true,
+  "projectFilePath": "E:\\VisualStudio\\App\\WinFormsApp11-g\\WinFormsApp11-g-1\\WinFormsApp11-g-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
